@@ -9,8 +9,6 @@ cd Build
 cmake ..
 make
 
-# To Run
+## To Run
 The executable will generate on Build folder. 
 ./Project-1
-
-
