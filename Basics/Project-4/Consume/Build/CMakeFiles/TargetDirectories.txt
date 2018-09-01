@@ -1,0 +1,3 @@
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Consume/Build/CMakeFiles/rebuild_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Consume/Build/CMakeFiles/edit_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Consume/Build/CMakeFiles/Project-4-Consumer.dir

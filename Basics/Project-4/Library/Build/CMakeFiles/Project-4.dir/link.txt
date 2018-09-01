@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Project-4.dir/src/main.cpp.o  -o Project-4 -Wl,-rpath,/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Library/Build libmath_library.dylib 

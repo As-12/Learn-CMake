@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//Math/sum.hpp
+
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Library/src/main.cpp
+iostream
+-
+Math/sum.hpp
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Library/src/Math/sum.hpp
+

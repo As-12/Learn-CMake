@@ -1,0 +1,4 @@
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Library/Build/CMakeFiles/rebuild_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Library/Build/CMakeFiles/edit_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Library/Build/CMakeFiles/Project-4.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-4/Library/Build/CMakeFiles/math_library.dir

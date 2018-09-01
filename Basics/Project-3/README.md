@@ -1,15 +1,16 @@
-# Project2 - Multiple source files CMake. 
+# Project3 - Static library 
 
-A simple self-contained project with separated header and source files
+A simple project with a compiled static library.
 
 ```
-Project-2$ tree
+Project-3$ tree
 .
 ├── CMakeLists.txt
-├── include
-│   └── sum.hpp
+├── Math
+    └── sum.hpp
+│   └── src
+│       └── sum.cpp
 └── src
-    ├── sum.cpp
     └── main.cpp
 ```
 
@@ -22,4 +23,4 @@ make
 
 ## To Run
 The executable will generate on Build folder. 
-./Project-2
+./Project-3
