@@ -1,0 +1,7 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+#Ignore build files
+Project-1/Build/
