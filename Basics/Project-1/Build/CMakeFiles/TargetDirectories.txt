@@ -1,3 +1,0 @@
-/Users/Bomb/Documents/Project/Learn-Cmake/Project-1/Build/CMakeFiles/rebuild_cache.dir
-/Users/Bomb/Documents/Project/Learn-Cmake/Project-1/Build/CMakeFiles/edit_cache.dir
-/Users/Bomb/Documents/Project/Learn-Cmake/Project-1/Build/CMakeFiles/Project-1.dir
