@@ -5,12 +5,9 @@ There are some use-case for Dynamic Library such as speeding up compile time and
 A good discussion is listed here.
 https://stackoverflow.com/questions/140061/when-to-use-dynamic-vs-static-libraries
 
-A simple project with a compiled dynamic library.
-Ideally one CMake project will build dynamic library and the other project will consume it.
 
-
-In this project, a shared library math_library is built under folder Library with associated header file.
-Another project, Consume, leverages the shared library generated from Library.
+In this project, a shared library math_library is built under Library/.
+Another project, Consume, leverages the shared library.
 
 ```
 Project-4$ tree

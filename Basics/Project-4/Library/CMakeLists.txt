@@ -3,9 +3,8 @@ cmake_minimum_required (VERSION 3.5 FATAL_ERROR)
 
 project(Learn-CMake-Project-4)
 
-
 ############################################################
-# Static Library
+# Dynamic Library
 ############################################################
 
 set(MATH_SRC

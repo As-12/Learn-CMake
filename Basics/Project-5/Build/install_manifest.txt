@@ -1,0 +1,4 @@
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-5/Install/bin/Project-5
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-5/Install/lib/libmath_library.dylib
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-5/Install/include/Math.hpp
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-5/Install/etc/Project-5.conf

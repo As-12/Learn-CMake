@@ -1,0 +1,3 @@
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-6/Release/CMakeFiles/rebuild_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-6/Release/CMakeFiles/edit_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-6/Release/CMakeFiles/Project-6.dir
