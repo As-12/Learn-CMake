@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Library/include/account.hpp
+
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-9/Library/src/main.cpp
+account.hpp
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-9/Library/src/account.hpp
+iostream
+-
+

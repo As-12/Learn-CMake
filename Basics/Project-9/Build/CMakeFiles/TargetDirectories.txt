@@ -1,0 +1,6 @@
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-9/Build/CMakeFiles/rebuild_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-9/Build/CMakeFiles/edit_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-9/Build/CMakeFiles/doc_doxygen.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-9/Build/Library/CMakeFiles/rebuild_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-9/Build/Library/CMakeFiles/edit_cache.dir
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-9/Build/Library/CMakeFiles/Learn-CMake-Project-9-Library.dir
