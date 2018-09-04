@@ -1,0 +1,34 @@
+Start testing: Sep 03 16:47 IST
+----------------------------------------------------------
+1/1 Testing: test_all
+1/1 Test: test_all
+Command: "/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/unit_tests"
+Directory: /Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test
+"test_all" start time: Sep 03 16:47 IST
+Output:
+----------------------------------------------------------
+Running main() from gtest_main.cc
+[==========] Running 2 tests from 2 test cases.
+[----------] Global test environment set-up.
+[----------] 1 test from SumTest
+[ RUN      ] SumTest.PositiveNos
+[       OK ] SumTest.PositiveNos (0 ms)
+[----------] 1 test from SumTest (0 ms total)
+
+[----------] 1 test from FactTest
+[ RUN      ] FactTest.PositiveNos
+[       OK ] FactTest.PositiveNos (0 ms)
+[----------] 1 test from FactTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 2 test cases ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_all" end time: Sep 03 16:47 IST
+"test_all" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 03 16:47 IST

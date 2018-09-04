@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libProject-8-Library.a  CMakeFiles/Project-8-Library.dir/src/Math.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libProject-8-Library.a

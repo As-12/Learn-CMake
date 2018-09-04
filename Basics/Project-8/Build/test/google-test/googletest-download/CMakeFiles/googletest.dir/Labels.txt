@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/CMakeFiles/googletest
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/CMakeFiles/googletest.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/Bomb/Documents/Project/Learn-Cmake/Basics/Project-8/Build/test/google-test/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
